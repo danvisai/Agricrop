@@ -1,27 +1,21 @@
-# Next.js + Tailwind CSS Example
+The problem AgriCrop solves
+We are solving a major problem ,where farmer can sell goods directly to the customer and make huge profits.Our website works where no middle men involved like distributers where farmers can feel free by selling their vegetables and goods in our marketplace.This make easier to the farmers and customers which ease at a pace and simplifies major barriers like traditional flow to marketplace like farmers has to move to distributers , logistics and then recieved to customers our solutions will drive to sell directly to the customers which can help farmers maximize their profits from the crops
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+Technologies:
 
-## Preview
+💨 Polygon Network - Superfast blockchain transactions.
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+💾 IPFS - Distributed Storage of encrypted NFT owner , buyer and all other important info.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+🌍 - Spheron - deployment of our project .Check it out at https://agricrop-lkymdx.argoapp.io/ deployed on Spheron
 
-## Deploy your own
+#PoweredBySpheron
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+Challenges we ran into
+1.Metamask interaction with contracts, the difference between call(), and send(), these took some time to understand. All these days I was experienced with signing my own transaction with private keys in code.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+2.This was our first blockchain project, understanding all the about NFT'S, and everything around this was quite hard compared to normal web3 projects.
 
-## How to use
+3.IPFS integration in smart contracts, the docs are not very approachable for a beginner. Watched a ton of tutorials.
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+4.Spheron did take some time to get used to deploy our project, asking mentors for help and getting solutions had a great learning experience.
